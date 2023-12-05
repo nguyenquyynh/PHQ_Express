@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PHQ_Express</string>
+    <string name="pick_place">Chọn địa điểm</string>
+    <string name="default_info_title">Địa điểm khác</string>
+    <string name="default_info_snippet">Chọn địa điểm 2</string>
+    <string name="places_api_key">AIzaSyBdz6fsetE2v2W0hLSp4H5fBmUwHpjO42Q</string>
 </resources>
